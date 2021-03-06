@@ -9,6 +9,19 @@
 
 
 
+## RocketMQ 免费电子书
+
+![Apache RocketMQ ACL、消息轨迹、主从切换](https://img-blog.csdnimg.cn/2021030422241188.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ByZXN0aWdlZGluZw==,size_16,color_FFFFFF,t_70#pic_center)
+
+
+![Apache线上故障排查与实战](https://img-blog.csdnimg.cn/20210304222419291.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ByZXN0aWdlZGluZw==,size_16,color_FFFFFF,t_70#pic_center)
+
+获取方式：关注『中间件兴趣圈』，回复RMQPDF，**即可免费获取**。
+
+![](https://img-blog.csdnimg.cn/20210304222446606.jpg#pic_center)
+
+
+
 
 
 
