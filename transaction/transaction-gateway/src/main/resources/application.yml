@@ -1,0 +1,16 @@
+server:
+    port: 9090
+#字符编码 Request 和 Response 强制设为UTF-8
+spring:
+  http:
+    encoding:
+    charset: UTF-8
+    enabled: true
+    force: true
+#日志颜色
+  output:
+    ansi:
+      enabled: ALWAYS
+logging:
+    level:
+        tk.mybatis: TRACE
